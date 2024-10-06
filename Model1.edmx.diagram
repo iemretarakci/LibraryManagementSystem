@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4454244ca6ce4be1937215095c4e42cd" Name="Diagram1" ZoomLevel="59">
+        <EntityTypeShape EntityType="LibrarySystemModel.Authors" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.BookCopies" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.Books" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.Borrowers" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.Loans" Width="1.5" PointX="7.5" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.Publishers" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.Reservation" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibrarySystemModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="8.625" IsExpanded="true" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Books_Authors" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_BookCopies_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Loans_BookCopies" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Books_Publishers" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Loans_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Reservation_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Loans_Borrowers" ManuallyRouted="false" />
+        <AssociationConnector Association="LibrarySystemModel.FK_Reservation_Borrowers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

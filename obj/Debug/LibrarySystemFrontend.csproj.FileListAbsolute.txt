@@ -1,0 +1,15 @@
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.csproj.AssemblyReference.cache
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.Form1.resources
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.Properties.Resources.resources
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.csproj.GenerateResource.cache
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.csproj.CoreCompileInputs.cache
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\LibrarySystemFrontend.exe.config
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\LibrarySystemFrontend.exe
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\LibrarySystemFrontend.pdb
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\EntityFramework.dll
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\EntityFramework.xml
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibraryS.F3897EC3.Up2Date
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.exe
+D:\VisualStudioProgramlar\LibrarySystemFrontend\LibrarySystemFrontend\obj\Debug\LibrarySystemFrontend.pdb
